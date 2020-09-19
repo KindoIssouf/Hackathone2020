@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Report" max_length="40" name="x_534978_wellcheck_report" sizeclass="0" type="collection">
+        <element label="Inventory" max_length="40" name="inventory" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="ItemID" max_length="40" name="itemid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ItemName" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_534978_wellcheck_hareware">x_534978_wellcheck_hareware</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>HAR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-18 04:54:19</sys_created_on>
+        <sys_id>1c2c200edb175010b36ccc3039961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HAR</sys_name>
+        <sys_package display_value="WellCheck" source="x_534978_wellcheck">84976c0adb175010b36ccc3039961930</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WellCheck">84976c0adb175010b36ccc3039961930</sys_scope>
+        <sys_update_name>sys_number_1c2c200edb175010b36ccc3039961944</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-18 04:54:19</sys_updated_on>
+    </sys_number>
+</record_update>

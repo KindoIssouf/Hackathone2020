@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Find assets">dd86dd96db139010b36ccc3039961937</applet_launcher>
+        <icon display_value="Clipboard Exclamation">74e50ba3b7600010295a9489de11a926</icon>
+        <label>Find assets</label>
+        <roles/>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-19 02:45:40</sys_created_on>
+        <sys_id>0528511adb139010b36ccc30399619e4</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Find assets</sys_name>
+        <sys_package display_value="WellCheck" source="x_534978_wellcheck">84976c0adb175010b36ccc3039961930</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WellCheck">84976c0adb175010b36ccc3039961930</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_0528511adb139010b36ccc30399619e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-19 03:00:07</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

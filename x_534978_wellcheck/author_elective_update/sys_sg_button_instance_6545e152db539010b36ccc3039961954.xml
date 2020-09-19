@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Employees  unassign  item">e009dcdedb5f5010b36ccc3039961947</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>remove</label>
+        <location>trailing_swipe</location>
+        <name>remove</name>
+        <order>10</order>
+        <parent>0d7818dedb5f5010b36ccc3039961996</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-19 03:42:29</sys_created_on>
+        <sys_id>6545e152db539010b36ccc3039961954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>remove</sys_name>
+        <sys_package display_value="WellCheck" source="x_534978_wellcheck">84976c0adb175010b36ccc3039961930</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WellCheck">84976c0adb175010b36ccc3039961930</sys_scope>
+        <sys_update_name>sys_sg_button_instance_6545e152db539010b36ccc3039961954</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-19 03:42:29</sys_updated_on>
+        <table>alm_asset</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=6545e152db539010b36ccc3039961954"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="WellCheck">84976c0adb175010b36ccc3039961930</application>
+        <file_path/>
+        <instance_id>3fec8c7fdbf0338042b321c4059619a9</instance_id>
+        <instance_name>dev82304</instance_name>
+        <name>sys_sg_button_instance_6545e152db539010b36ccc3039961954</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Employees  unassign  item">e009dcdedb5f5010b36ccc3039961947</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>remove</label><location>trailing_swipe</location><name>remove</name><order>10</order><parent>0d7818dedb5f5010b36ccc3039961996</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-19 03:42:29</sys_created_on><sys_id>6545e152db539010b36ccc3039961954</sys_id><sys_mod_count>0</sys_mod_count><sys_name>remove</sys_name><sys_package display_value="WellCheck" source="x_534978_wellcheck">84976c0adb175010b36ccc3039961930</sys_package><sys_policy/><sys_scope display_value="WellCheck">84976c0adb175010b36ccc3039961930</sys_scope><sys_update_name>sys_sg_button_instance_6545e152db539010b36ccc3039961954</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-19 03:42:29</sys_updated_on><table>alm_asset</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=6545e152db539010b36ccc3039961954"/></record_update>]]></payload>
+        <payload_hash>1184599960</payload_hash>
+        <record_name>remove</record_name>
+        <reverted_from/>
+        <source>dc976c0adb175010b36ccc3039961932</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-19 03:42:29</sys_created_on>
+        <sys_id>6d45e152db539010b36ccc3039961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174a474c21c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-19 03:42:29</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>a545e152ca539010e59104f416384d56</update_guid>
+        <update_guid_history>a545e152ca539010e59104f416384d56:1184599960</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-19 03:51:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>44cefe6ec08d4ac0813b92bec7f01100</sys_id>
+        <sys_metadata>6545e152db539010b36ccc3039961954</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>remove</sys_name>
+        <sys_package display_value="WellCheck" source="x_534978_wellcheck">84976c0adb175010b36ccc3039961930</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="WellCheck">84976c0adb175010b36ccc3039961930</sys_scope>
+        <sys_scope_delete display_value="">8585e34992064da0a8484674bd001d10</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_6545e152db539010b36ccc3039961954</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_6545e152db539010b36ccc3039961954">6d45e152db539010b36ccc3039961956</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-19 03:51:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

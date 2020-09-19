@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Delete asset</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-19 01:18:38</sys_created_on>
+        <sys_id>333485dadbdf5010b36ccc3039961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete asset</sys_name>
+        <sys_package display_value="WellCheck" source="x_534978_wellcheck">84976c0adb175010b36ccc3039961930</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WellCheck">84976c0adb175010b36ccc3039961930</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_333485dadbdf5010b36ccc3039961966</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-19 01:18:38</sys_updated_on>
+        <table>alm_asset</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=333485dadbdf5010b36ccc3039961966"/>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="inventory" label="Inventory" language="en" table="x_534978_wellcheck_report">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>inventory</element>
+            <help/>
+            <hint/>
+            <label>Inventory</label>
+            <language>en</language>
+            <name>x_534978_wellcheck_report</name>
+            <plural>Inventories</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-18 04:58:52</sys_created_on>
+            <sys_id>7e2de80edb175010b36ccc3039961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Inventory</sys_name>
+            <sys_package display_value="WellCheck" source="x_534978_wellcheck">84976c0adb175010b36ccc3039961930</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="WellCheck">84976c0adb175010b36ccc3039961930</sys_scope>
+            <sys_update_name>sys_documentation_x_534978_wellcheck_report_inventory_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-18 04:58:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

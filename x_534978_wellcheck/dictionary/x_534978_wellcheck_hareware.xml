@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="HardWare" max_length="40" name="x_534978_wellcheck_hareware" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="DateReturn" max_length="40" name="datereturn" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="DateTake" max_length="40" name="datetake" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="EmployeeKeep" max_length="40" name="employeekeep" type="string"/>
+        <element label="Inventory" max_length="40" name="inventory" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="ItemID" max_length="40" name="itemid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ItemName" max_length="40" name="itemname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="QuantityOfItem" max_length="40" name="numberofitem" type="integer"/>
+    </element>
+</database>
